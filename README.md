@@ -4,4 +4,4 @@ I'm a student with an interest in Software Engineering, App Development, Game De
 and Computer Science in general.
 
 I generally use this GitHub profile to store hobby projects that I worked on with
-friends and personal Apps, Utilities and Games that I have programmed.
+friends as well as Applications, Utilities and Games that I have programmed.
