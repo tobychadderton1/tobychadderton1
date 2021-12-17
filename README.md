@@ -1,6 +1,6 @@
 ### Toby Chadderton
 
-I'm a student with an interest in Mathematics, Software Engineering,
+I'm a student with an interest in Maths, Software Engineering,
 App Development, Game Development and Computer Science in general.
 
 I generally use this GitHub profile to store hobby projects that I worked on with
